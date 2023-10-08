@@ -14,5 +14,5 @@
 
   //! object
 
-  console.log( typeof undefined);   //* undefine
+  console.log( typeof undefined);   //? undefine
   console.log(typeof null )       //! object
